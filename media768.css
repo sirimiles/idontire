@@ -1,0 +1,190 @@
+/* Small devices Landscape phones, 576px and up */
+@media (min-width: 576px) {
+  .logo {
+    width: 20%;
+    margin-bottom: 10px;
+  }
+  .hero {
+    margin-top: 15px;
+  }
+  ul li a {
+    font-size: 18px;
+  }
+  #typesofshoes {
+    margin: 0 60px;
+  }
+  button {
+    border-radius: 8px;
+  }
+  #delivery a {
+    font-size: 30px;
+  }
+  #update-sec input {
+    margin: 2% 25%;
+  }
+  #submit {
+    margin: 2% 35%;
+    font-size: 15px;
+  }
+}
+/* Medium devices: (Tablets, 768px and above) */
+@media (min-width: 768px) {
+  nav ul {
+    gap: 50px;
+  }
+  #showcase div {
+    height: 220px;
+    width: 180px;
+  }
+  #showcase img {
+    height: 170px;
+    width: 170px;
+  }
+  #typesofshoes {
+    margin: 0 100px;
+  }
+
+  #new-arrival div {
+    height: 220px;
+    width: 180px;
+  }
+  #new-arrival img {
+    height: 170px;
+    width: 170px;
+  }
+  button {
+    margin: 2% 35%;
+  }
+  .topBrand img {
+    height: 220px;
+    width: 180px;
+  }
+  #delivery ul li {
+    font-weight: 400;
+    font-size: 15px;
+  }
+  #update-sec p {
+    font-size: 15px;
+    font-weight: 400;
+  }
+  #update-sec input {
+    margin: 4% 25%;
+    padding: 10px 70px;
+    font-size: 20px;
+  }
+  #submit {
+    margin: 1% 40%;
+    font-size: 20px;
+  }
+  #footer p {
+    font-size: 20px;
+  }
+}
+/* Large Devices (Desktop, 992px and above) */
+@media (min-width: 992px) {
+  #showcase div {
+    height: 230px;
+    width: 250px;
+  }
+  #showcase img {
+    height: 180px;
+    width: 240px;
+  }
+  #typesofshoes {
+    margin: 0 20%;
+  }
+
+  #new-arrival div {
+    height: 230px;
+    width: 250px;
+  }
+  #new-arrival img {
+    height: 180px;
+    width: 240px;
+  }
+  button {
+    margin: 2% 40%;
+  }
+  .topBrand img {
+    height: 220px;
+    width: 240px;
+  }
+  #update-sec input {
+    margin: 4% 27%;
+    padding: 10px 70px;
+    font-size: 20px;
+  }
+  #submit {
+    margin: 1% 40%;
+    font-size: 20px;
+  }
+}
+/* Large Devices (Desktop, 1366px and above) */
+@media (min-width: 992px) {
+  .logo {
+    width: 10%;
+    margin-top: 20px;
+    margin-left: 45%;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  .collection p {
+    font-size: 30px;
+  }
+  /* Landing Page Section */
+  .hero img {
+    width: 90%;
+    margin-top: 10px;
+  }
+  #showcase div {
+    height: 300px;
+    width: 300px;
+    margin: 2% 2%;
+  }
+  #showcase img {
+    height: 250px;
+    width: 290px;
+  }
+  #typesofshoes {
+    margin: 0 20%;
+    padding: 5px 50px;
+    font-size: 20px;
+  }
+
+  #new-arrival div {
+    height: 300px;
+    width: 300px;
+    margin: 2% 2%;
+  }
+  #new-arrival img {
+    height: 250px;
+    width: 290px;
+  }
+  button {
+    margin: 2% 40%;
+    padding: 20px 80px;
+    font-size: 15px;
+  }
+  .topBrand img {
+    height: 300px;
+    width: 350px;
+  }
+  #delivery ul li {
+    font-weight: 400;
+    font-size: 25px;
+  }
+  #update-sec p {
+    font-size: 25px;
+    font-weight: 400;
+  }
+  #update-sec input {
+    margin: 4% 33%;
+    padding: 10px 70px;
+    font-size: 20px;
+  }
+  #submit {
+    margin: 1% 40%;
+    font-size: 20px;
+  }
+}
